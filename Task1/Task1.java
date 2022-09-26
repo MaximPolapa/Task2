@@ -1,7 +1,4 @@
-package Laboratorka2;
-
-import java.util.function.Consumer;
-import java.util.LinkedList;
+package Laboratorka2.Task1;
 
 public class Task1 {
     public static<E> void ForEach(final Iterable<E> iterable) {

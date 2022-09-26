@@ -1,4 +1,4 @@
-package Laboratorka2;
+package Laboratorka2.Task1;
 import java.lang.Iterable;
 import java.util.Iterator;
 //import java.util.function.Consumer;

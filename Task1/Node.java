@@ -1,4 +1,4 @@
-package Laboratorka2;
+package Laboratorka2.Task1;
 
 public class Node<E> {
     private E item;
